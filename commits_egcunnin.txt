@@ -1,3 +1,42 @@
+commit 9b3fac30f74583bda05722acbcf177996781ce12
+Author: Emma Cunningham <egcunnin@ncsu.edu>
+Date:   Thu Apr 23 23:34:55 2026 -0400
+
+    update
+    
+    Co-authored-by: Copilot <copilot@github.com>
+
+commit 3989a112b86f9b391db7845a8cd85e42b88f18ec
+Author: Emma Cunningham <egcunnin@ncsu.edu>
+Date:   Thu Apr 23 23:29:49 2026 -0400
+
+    update my webpage
+
+commit 0365548331afce43a55663b0452a571a6403f170
+Author: Emma Cunningham <egcunnin@ncsu.edu>
+Date:   Thu Apr 23 23:27:22 2026 -0400
+
+    update
+
+commit c76b674fd986d73139dc546a7283a98d9c138ab1
+Merge: fc0b939 19700e4
+Author: Emma Cunningham <egcunnin@ncsu.edu>
+Date:   Thu Apr 23 23:19:04 2026 -0400
+
+    Merge branch 'main' of https://github.com/egcunnin/webpages
+
+commit fc0b93941b19da9b30b26a067d234b3792bc6aaa
+Author: Emma Cunningham <egcunnin@ncsu.edu>
+Date:   Thu Apr 23 23:18:59 2026 -0400
+
+    update to my webpage and stylesheet
+
+commit 19700e4d175d6e38d479ffc7147f8dbd22883f9b
+Author: egcunnin <egcunnin@ncsu.edu>
+Date:   Thu Apr 23 23:10:35 2026 -0400
+
+    Add files via upload
+
 commit 2ec241a0e40bf0393e95e6c4c88a02b371250ee5
 Author: Emma Cunningham <egcunnin@ncsu.edu>
 Date:   Thu Apr 23 23:04:17 2026 -0400
